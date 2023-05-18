@@ -1,0 +1,16 @@
+C:\Users\YusbelAdmin\source\repos\Assesment\AirTec-CodingExercise\AirTec-CodingExercise\bin\Debug\net6.0\AirTec-CodingExercise.exe
+C:\Users\YusbelAdmin\source\repos\Assesment\AirTec-CodingExercise\AirTec-CodingExercise\bin\Debug\net6.0\coding-assigment-orders.json
+C:\Users\YusbelAdmin\source\repos\Assesment\AirTec-CodingExercise\AirTec-CodingExercise\bin\Debug\net6.0\AirTec-CodingExercise.deps.json
+C:\Users\YusbelAdmin\source\repos\Assesment\AirTec-CodingExercise\AirTec-CodingExercise\bin\Debug\net6.0\AirTec-CodingExercise.runtimeconfig.json
+C:\Users\YusbelAdmin\source\repos\Assesment\AirTec-CodingExercise\AirTec-CodingExercise\bin\Debug\net6.0\AirTec-CodingExercise.dll
+C:\Users\YusbelAdmin\source\repos\Assesment\AirTec-CodingExercise\AirTec-CodingExercise\bin\Debug\net6.0\AirTec-CodingExercise.pdb
+C:\Users\YusbelAdmin\source\repos\Assesment\AirTec-CodingExercise\AirTec-CodingExercise\obj\Debug\net6.0\AirTec-CodingExercise.csproj.AssemblyReference.cache
+C:\Users\YusbelAdmin\source\repos\Assesment\AirTec-CodingExercise\AirTec-CodingExercise\obj\Debug\net6.0\AirTec-CodingExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YusbelAdmin\source\repos\Assesment\AirTec-CodingExercise\AirTec-CodingExercise\obj\Debug\net6.0\AirTec-CodingExercise.AssemblyInfoInputs.cache
+C:\Users\YusbelAdmin\source\repos\Assesment\AirTec-CodingExercise\AirTec-CodingExercise\obj\Debug\net6.0\AirTec-CodingExercise.AssemblyInfo.cs
+C:\Users\YusbelAdmin\source\repos\Assesment\AirTec-CodingExercise\AirTec-CodingExercise\obj\Debug\net6.0\AirTec-CodingExercise.csproj.CoreCompileInputs.cache
+C:\Users\YusbelAdmin\source\repos\Assesment\AirTec-CodingExercise\AirTec-CodingExercise\obj\Debug\net6.0\AirTec-CodingExercise.dll
+C:\Users\YusbelAdmin\source\repos\Assesment\AirTec-CodingExercise\AirTec-CodingExercise\obj\Debug\net6.0\refint\AirTec-CodingExercise.dll
+C:\Users\YusbelAdmin\source\repos\Assesment\AirTec-CodingExercise\AirTec-CodingExercise\obj\Debug\net6.0\AirTec-CodingExercise.pdb
+C:\Users\YusbelAdmin\source\repos\Assesment\AirTec-CodingExercise\AirTec-CodingExercise\obj\Debug\net6.0\AirTec-CodingExercise.genruntimeconfig.cache
+C:\Users\YusbelAdmin\source\repos\Assesment\AirTec-CodingExercise\AirTec-CodingExercise\obj\Debug\net6.0\ref\AirTec-CodingExercise.dll
